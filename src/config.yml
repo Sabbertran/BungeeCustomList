@@ -1,0 +1,10 @@
+#Needed permission (leave blank for no permission)
+permission: bungeecustomlist.list
+#Command aliases
+commandAliases:
+- globallist
+#Disabled servers in the list
+disabledServers: 
+- Server1
+- Server2
+- Server3
